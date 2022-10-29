@@ -3,8 +3,13 @@
 - JDK 1.8 or later
 - Maven 3 or later
 - MySQL 5.6 or later
+<<<<<<< HEAD
 
 # Technologies 
+=======
+######
+## Technologies 
+>>>>>>> daf59d3d3a2778adfb1e83dcb52294ec2c613119
 - Spring MVC
 - Spring Security
 - Spring Data JPA
